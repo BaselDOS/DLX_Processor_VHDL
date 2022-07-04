@@ -1,0 +1,5 @@
+vhdl work "REG32CE.vhd"
+vhdl work "READ_StateMachine.vhd"
+vhdl work "CNT32.vhd"
+vhdl work "READM.vhf"
+vhdl work "ReadMachine_Test.vhd"

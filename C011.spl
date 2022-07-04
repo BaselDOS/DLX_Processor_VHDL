@@ -1,0 +1,4 @@
+[Inputs]
+[Outputs]
+=C011_Out[2:0]=
+[BiDir]

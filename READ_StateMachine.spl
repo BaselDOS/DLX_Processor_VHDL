@@ -1,0 +1,12 @@
+[Inputs]
+clk
+STEP_EN
+ACK_N
+RESET
+[Outputs]
+IN_INIT
+AS_N
+STOP_N
+Start_Loading
+=State[1:0]=
+[BiDir]

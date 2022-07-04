@@ -1,0 +1,4 @@
+[Inputs]
+[Outputs]
+=REG_ZERO_Out[31:0]=
+[BiDir]

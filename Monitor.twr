@@ -1,0 +1,541 @@
+--------------------------------------------------------------------------------
+Release 14.7 Trace  (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+F:\ProgramData\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\trce.exe -intstyle ise
+-v 3 -s 2 -n 3 -fastpaths -xml Monitor.twx Monitor.ncd -o Monitor.twr
+Monitor.pcf
+
+Design file:              Monitor.ncd
+Physical constraint file: Monitor.pcf
+Device,package,speed:     xc6slx25,ftg256,C,-2 (PRODUCTION 1.23 2013-10-13)
+Report level:             verbose report
+
+Environment Variable      Effect 
+--------------------      ------ 
+NONE                      No environment variables were set
+--------------------------------------------------------------------------------
+
+INFO:Timing:2698 - No timing constraints found, doing default enumeration.
+INFO:Timing:3412 - To improve timing, see the Timing Closure User Guide (UG612).
+INFO:Timing:2752 - To get complete path coverage, use the unconstrained paths 
+   option. All paths that are not constrained will be reported in the 
+   unconstrained paths section(s) of the report.
+INFO:Timing:3339 - The clock-to-out numbers in this timing report are based on 
+   a 50 Ohm transmission line loading model.  For the details of this model, 
+   and for more information on accounting for different loading conditions, 
+   please see the device datasheet.
+
+
+
+Data Sheet report:
+-----------------
+All values displayed in nanoseconds (ns)
+
+Setup/Hold to clock CLK
+---------------------+------------+------------+------------+------------+------------------+--------+
+                     |Max Setup to|  Process   |Max Hold to |  Process   |                  | Clock  |
+Source               | clk (edge) |   Corner   | clk (edge) |   Corner   |Internal Clock(s) | Phase  |
+---------------------+------------+------------+------------+------------+------------------+--------+
+AI<0>                |    6.360(R)|      SLOW  |   -2.631(R)|      FAST  |CLK_BUFGP         |   0.000|
+AI<1>                |    5.409(R)|      SLOW  |   -2.036(R)|      FAST  |CLK_BUFGP         |   0.000|
+AI<2>                |    5.533(R)|      SLOW  |   -2.242(R)|      FAST  |CLK_BUFGP         |   0.000|
+AI<3>                |    5.648(R)|      SLOW  |   -2.317(R)|      FAST  |CLK_BUFGP         |   0.000|
+AI<4>                |    5.440(R)|      SLOW  |   -2.173(R)|      FAST  |CLK_BUFGP         |   0.000|
+AI<7>                |    2.762(R)|      SLOW  |   -0.984(R)|      FAST  |CLK_BUFGP         |   0.000|
+AI<8>                |    2.813(R)|      SLOW  |   -0.966(R)|      FAST  |CLK_BUFGP         |   0.000|
+AI<9>                |    2.308(R)|      SLOW  |   -0.744(R)|      FAST  |CLK_BUFGP         |   0.000|
+CARD_SEL             |    4.125(R)|      SLOW  |   -1.750(R)|      FAST  |CLK_BUFGP         |   0.000|
+Monitored_signals<0> |    2.100(R)|      SLOW  |   -0.665(R)|      FAST  |CLK_BUFGP         |   0.000|
+Monitored_signals<1> |    2.720(R)|      SLOW  |   -0.967(R)|      FAST  |CLK_BUFGP         |   0.000|
+Monitored_signals<2> |    2.523(R)|      SLOW  |   -0.882(R)|      FAST  |CLK_BUFGP         |   0.000|
+Monitored_signals<3> |    2.699(R)|      SLOW  |   -0.956(R)|      FAST  |CLK_BUFGP         |   0.000|
+Monitored_signals<4> |    2.864(R)|      SLOW  |   -1.051(R)|      FAST  |CLK_BUFGP         |   0.000|
+Monitored_signals<5> |    3.076(R)|      SLOW  |   -1.177(R)|      FAST  |CLK_BUFGP         |   0.000|
+Monitored_signals<6> |    2.745(R)|      SLOW  |   -1.024(R)|      FAST  |CLK_BUFGP         |   0.000|
+Monitored_signals<7> |    3.836(R)|      SLOW  |   -1.587(R)|      FAST  |CLK_BUFGP         |   0.000|
+Monitored_signals<8> |    3.412(R)|      SLOW  |   -1.410(R)|      FAST  |CLK_BUFGP         |   0.000|
+Monitored_signals<9> |    3.486(R)|      SLOW  |   -1.415(R)|      FAST  |CLK_BUFGP         |   0.000|
+Monitored_signals<10>|    3.676(R)|      SLOW  |   -1.539(R)|      FAST  |CLK_BUFGP         |   0.000|
+Monitored_signals<11>|    3.250(R)|      SLOW  |   -1.276(R)|      FAST  |CLK_BUFGP         |   0.000|
+Monitored_signals<12>|    3.520(R)|      SLOW  |   -1.427(R)|      FAST  |CLK_BUFGP         |   0.000|
+Monitored_signals<13>|    3.636(R)|      SLOW  |   -1.470(R)|      FAST  |CLK_BUFGP         |   0.000|
+Monitored_signals<14>|    3.565(R)|      SLOW  |   -1.521(R)|      FAST  |CLK_BUFGP         |   0.000|
+Monitored_signals<15>|    3.933(R)|      SLOW  |   -1.647(R)|      FAST  |CLK_BUFGP         |   0.000|
+Monitored_signals<16>|    4.415(R)|      SLOW  |   -1.978(R)|      FAST  |CLK_BUFGP         |   0.000|
+Monitored_signals<17>|    4.767(R)|      SLOW  |   -2.217(R)|      FAST  |CLK_BUFGP         |   0.000|
+Monitored_signals<18>|    4.483(R)|      SLOW  |   -2.059(R)|      FAST  |CLK_BUFGP         |   0.000|
+Monitored_signals<19>|    4.187(R)|      SLOW  |   -1.856(R)|      FAST  |CLK_BUFGP         |   0.000|
+Monitored_signals<20>|    4.308(R)|      SLOW  |   -1.985(R)|      FAST  |CLK_BUFGP         |   0.000|
+Monitored_signals<21>|    4.381(R)|      SLOW  |   -2.003(R)|      FAST  |CLK_BUFGP         |   0.000|
+Monitored_signals<22>|    3.805(R)|      SLOW  |   -1.753(R)|      FAST  |CLK_BUFGP         |   0.000|
+Monitored_signals<23>|    3.938(R)|      SLOW  |   -1.752(R)|      FAST  |CLK_BUFGP         |   0.000|
+Monitored_signals<24>|    4.037(R)|      SLOW  |   -1.836(R)|      FAST  |CLK_BUFGP         |   0.000|
+Monitored_signals<25>|    4.319(R)|      SLOW  |   -1.956(R)|      FAST  |CLK_BUFGP         |   0.000|
+Monitored_signals<26>|    4.044(R)|      SLOW  |   -1.859(R)|      FAST  |CLK_BUFGP         |   0.000|
+Monitored_signals<27>|    3.547(R)|      SLOW  |   -1.518(R)|      FAST  |CLK_BUFGP         |   0.000|
+Monitored_signals<28>|    3.217(R)|      SLOW  |   -1.396(R)|      FAST  |CLK_BUFGP         |   0.000|
+Monitored_signals<29>|    3.651(R)|      SLOW  |   -1.598(R)|      FAST  |CLK_BUFGP         |   0.000|
+Monitored_signals<30>|    3.243(R)|      SLOW  |   -1.408(R)|      FAST  |CLK_BUFGP         |   0.000|
+Monitored_signals<31>|    3.014(R)|      SLOW  |   -1.260(R)|      FAST  |CLK_BUFGP         |   0.000|
+WR_IN_N              |    3.585(R)|      SLOW  |   -1.430(R)|      FAST  |CLK_BUFGP         |   0.000|
+in_init              |    7.442(R)|      SLOW  |   -1.906(R)|      FAST  |CLK_BUFGP         |   0.000|
+step_en              |    6.519(R)|      SLOW  |   -1.556(R)|      FAST  |CLK_BUFGP         |   0.000|
+stop_n               |    5.715(R)|      SLOW  |   -1.824(R)|      FAST  |CLK_BUFGP         |   0.000|
+---------------------+------------+------------+------------+------------+------------------+--------+
+
+Clock CLK to Pad
+------------+-----------------+------------+-----------------+------------+------------------+--------+
+            |Max (slowest) clk|  Process   |Min (fastest) clk|  Process   |                  | Clock  |
+Destination |  (edge) to PAD  |   Corner   |  (edge) to PAD  |   Corner   |Internal Clock(s) | Phase  |
+------------+-----------------+------------+-----------------+------------+------------------+--------+
+SACK_N      |        12.895(R)|      SLOW  |         5.481(R)|      FAST  |CLK_BUFGP         |   0.000|
+SDO<0>      |        17.488(R)|      SLOW  |         4.955(R)|      FAST  |CLK_BUFGP         |   0.000|
+SDO<1>      |        17.286(R)|      SLOW  |         5.232(R)|      FAST  |CLK_BUFGP         |   0.000|
+SDO<2>      |        17.381(R)|      SLOW  |         5.107(R)|      FAST  |CLK_BUFGP         |   0.000|
+SDO<3>      |        17.127(R)|      SLOW  |         4.997(R)|      FAST  |CLK_BUFGP         |   0.000|
+SDO<4>      |        17.338(R)|      SLOW  |         5.327(R)|      FAST  |CLK_BUFGP         |   0.000|
+SDO<5>      |        18.431(R)|      SLOW  |         6.692(R)|      FAST  |CLK_BUFGP         |   0.000|
+SDO<6>      |        18.343(R)|      SLOW  |         6.514(R)|      FAST  |CLK_BUFGP         |   0.000|
+SDO<7>      |        17.991(R)|      SLOW  |         6.389(R)|      FAST  |CLK_BUFGP         |   0.000|
+SDO<8>      |        16.369(R)|      SLOW  |         5.390(R)|      FAST  |CLK_BUFGP         |   0.000|
+SDO<9>      |        17.376(R)|      SLOW  |         5.947(R)|      FAST  |CLK_BUFGP         |   0.000|
+SDO<10>     |        16.291(R)|      SLOW  |         5.327(R)|      FAST  |CLK_BUFGP         |   0.000|
+SDO<11>     |        16.349(R)|      SLOW  |         5.396(R)|      FAST  |CLK_BUFGP         |   0.000|
+SDO<12>     |        16.607(R)|      SLOW  |         5.553(R)|      FAST  |CLK_BUFGP         |   0.000|
+SDO<13>     |        16.737(R)|      SLOW  |         5.633(R)|      FAST  |CLK_BUFGP         |   0.000|
+SDO<14>     |        16.040(R)|      SLOW  |         5.184(R)|      FAST  |CLK_BUFGP         |   0.000|
+SDO<15>     |        16.551(R)|      SLOW  |         5.472(R)|      FAST  |CLK_BUFGP         |   0.000|
+SDO<16>     |        15.623(R)|      SLOW  |         5.080(R)|      FAST  |CLK_BUFGP         |   0.000|
+SDO<17>     |        15.340(R)|      SLOW  |         5.080(R)|      FAST  |CLK_BUFGP         |   0.000|
+SDO<18>     |        15.300(R)|      SLOW  |         4.959(R)|      FAST  |CLK_BUFGP         |   0.000|
+SDO<19>     |        15.968(R)|      SLOW  |         5.313(R)|      FAST  |CLK_BUFGP         |   0.000|
+SDO<20>     |        16.145(R)|      SLOW  |         5.595(R)|      FAST  |CLK_BUFGP         |   0.000|
+SDO<21>     |        15.965(R)|      SLOW  |         5.497(R)|      FAST  |CLK_BUFGP         |   0.000|
+SDO<22>     |        16.208(R)|      SLOW  |         5.412(R)|      FAST  |CLK_BUFGP         |   0.000|
+SDO<23>     |        16.061(R)|      SLOW  |         5.351(R)|      FAST  |CLK_BUFGP         |   0.000|
+SDO<24>     |        15.487(R)|      SLOW  |         5.150(R)|      FAST  |CLK_BUFGP         |   0.000|
+SDO<25>     |        15.009(R)|      SLOW  |         4.931(R)|      FAST  |CLK_BUFGP         |   0.000|
+SDO<26>     |        15.234(R)|      SLOW  |         5.061(R)|      FAST  |CLK_BUFGP         |   0.000|
+SDO<27>     |        15.760(R)|      SLOW  |         5.337(R)|      FAST  |CLK_BUFGP         |   0.000|
+SDO<28>     |        15.500(R)|      SLOW  |         5.172(R)|      FAST  |CLK_BUFGP         |   0.000|
+SDO<29>     |        16.347(R)|      SLOW  |         5.730(R)|      FAST  |CLK_BUFGP         |   0.000|
+SDO<30>     |        16.268(R)|      SLOW  |         5.681(R)|      FAST  |CLK_BUFGP         |   0.000|
+SDO<31>     |        16.457(R)|      SLOW  |         5.738(R)|      FAST  |CLK_BUFGP         |   0.000|
+------------+-----------------+------------+-----------------+------------+------------------+--------+
+
+Clock to Setup on destination clock CLK
+---------------+---------+---------+---------+---------+
+               | Src:Rise| Src:Fall| Src:Rise| Src:Fall|
+Source Clock   |Dest:Rise|Dest:Rise|Dest:Fall|Dest:Fall|
+---------------+---------+---------+---------+---------+
+CLK            |    4.506|         |         |         |
+---------------+---------+---------+---------+---------+
+
+Pad to Pad
+------------------+---------------+---------+
+Source Pad        |Destination Pad|  Delay  |
+------------------+---------------+---------+
+AI<0>             |SDO<0>         |   18.294|
+AI<0>             |SDO<1>         |   18.092|
+AI<0>             |SDO<2>         |   18.318|
+AI<0>             |SDO<3>         |   18.064|
+AI<0>             |SDO<4>         |   18.118|
+AI<0>             |SDO<5>         |   19.211|
+AI<0>             |SDO<6>         |   19.375|
+AI<0>             |SDO<7>         |   19.023|
+AI<0>             |SDO<8>         |   17.371|
+AI<0>             |SDO<9>         |   18.378|
+AI<0>             |SDO<10>        |   17.235|
+AI<0>             |SDO<11>        |   17.293|
+AI<0>             |SDO<12>        |   17.427|
+AI<0>             |SDO<13>        |   17.557|
+AI<0>             |SDO<14>        |   17.044|
+AI<0>             |SDO<15>        |   17.555|
+AI<0>             |SDO<16>        |   16.352|
+AI<0>             |SDO<17>        |   16.397|
+AI<0>             |SDO<18>        |   16.262|
+AI<0>             |SDO<19>        |   16.930|
+AI<0>             |SDO<20>        |   17.076|
+AI<0>             |SDO<21>        |   16.896|
+AI<0>             |SDO<22>        |   17.121|
+AI<0>             |SDO<23>        |   16.974|
+AI<0>             |SDO<24>        |   16.544|
+AI<0>             |SDO<25>        |   16.161|
+AI<0>             |SDO<26>        |   16.385|
+AI<0>             |SDO<27>        |   16.949|
+AI<0>             |SDO<28>        |   16.689|
+AI<0>             |SDO<29>        |   17.522|
+AI<0>             |SDO<30>        |   17.443|
+AI<0>             |SDO<31>        |   17.608|
+AI<0>             |reg_adr<0>     |   13.202|
+AI<1>             |SDO<0>         |   17.515|
+AI<1>             |SDO<1>         |   17.313|
+AI<1>             |SDO<2>         |   17.408|
+AI<1>             |SDO<3>         |   17.154|
+AI<1>             |SDO<4>         |   17.365|
+AI<1>             |SDO<5>         |   18.458|
+AI<1>             |SDO<6>         |   18.370|
+AI<1>             |SDO<7>         |   18.018|
+AI<1>             |SDO<8>         |   16.401|
+AI<1>             |SDO<9>         |   17.408|
+AI<1>             |SDO<10>        |   16.323|
+AI<1>             |SDO<11>        |   16.381|
+AI<1>             |SDO<12>        |   16.639|
+AI<1>             |SDO<13>        |   16.769|
+AI<1>             |SDO<14>        |   16.072|
+AI<1>             |SDO<15>        |   16.583|
+AI<1>             |SDO<16>        |   15.719|
+AI<1>             |SDO<17>        |   15.438|
+AI<1>             |SDO<18>        |   15.398|
+AI<1>             |SDO<19>        |   16.066|
+AI<1>             |SDO<20>        |   16.234|
+AI<1>             |SDO<21>        |   16.054|
+AI<1>             |SDO<22>        |   16.306|
+AI<1>             |SDO<23>        |   16.159|
+AI<1>             |SDO<24>        |   15.585|
+AI<1>             |SDO<25>        |   15.035|
+AI<1>             |SDO<26>        |   15.161|
+AI<1>             |SDO<27>        |   15.858|
+AI<1>             |SDO<28>        |   15.598|
+AI<1>             |SDO<29>        |   16.279|
+AI<1>             |SDO<30>        |   16.200|
+AI<1>             |SDO<31>        |   16.384|
+AI<1>             |reg_adr<1>     |   13.194|
+AI<2>             |SDO<0>         |   17.265|
+AI<2>             |SDO<1>         |   17.063|
+AI<2>             |SDO<2>         |   17.194|
+AI<2>             |SDO<3>         |   16.940|
+AI<2>             |SDO<4>         |   17.348|
+AI<2>             |SDO<5>         |   18.441|
+AI<2>             |SDO<6>         |   18.232|
+AI<2>             |SDO<7>         |   17.880|
+AI<2>             |SDO<8>         |   16.371|
+AI<2>             |SDO<9>         |   17.378|
+AI<2>             |SDO<10>        |   16.575|
+AI<2>             |SDO<11>        |   16.633|
+AI<2>             |SDO<12>        |   16.638|
+AI<2>             |SDO<13>        |   16.768|
+AI<2>             |SDO<14>        |   15.992|
+AI<2>             |SDO<15>        |   16.503|
+AI<2>             |SDO<16>        |   15.675|
+AI<2>             |SDO<17>        |   15.552|
+AI<2>             |SDO<18>        |   15.369|
+AI<2>             |SDO<19>        |   16.037|
+AI<2>             |SDO<20>        |   16.342|
+AI<2>             |SDO<21>        |   16.162|
+AI<2>             |SDO<22>        |   16.102|
+AI<2>             |SDO<23>        |   15.955|
+AI<2>             |SDO<24>        |   15.699|
+AI<2>             |SDO<25>        |   15.200|
+AI<2>             |SDO<26>        |   15.325|
+AI<2>             |SDO<27>        |   15.964|
+AI<2>             |SDO<28>        |   15.704|
+AI<2>             |SDO<29>        |   16.522|
+AI<2>             |SDO<30>        |   16.443|
+AI<2>             |SDO<31>        |   16.548|
+AI<2>             |reg_adr<2>     |   13.192|
+AI<3>             |SDO<0>         |   17.148|
+AI<3>             |SDO<1>         |   16.946|
+AI<3>             |SDO<2>         |   17.562|
+AI<3>             |SDO<3>         |   17.308|
+AI<3>             |SDO<4>         |   17.603|
+AI<3>             |SDO<5>         |   18.696|
+AI<3>             |SDO<6>         |   18.483|
+AI<3>             |SDO<7>         |   18.131|
+AI<3>             |SDO<8>         |   16.272|
+AI<3>             |SDO<9>         |   17.279|
+AI<3>             |SDO<10>        |   16.379|
+AI<3>             |SDO<11>        |   16.437|
+AI<3>             |SDO<12>        |   16.570|
+AI<3>             |SDO<13>        |   16.700|
+AI<3>             |SDO<14>        |   15.920|
+AI<3>             |SDO<15>        |   16.431|
+AI<3>             |SDO<16>        |   15.371|
+AI<3>             |SDO<17>        |   15.221|
+AI<3>             |SDO<18>        |   15.006|
+AI<3>             |SDO<19>        |   15.674|
+AI<3>             |SDO<20>        |   16.561|
+AI<3>             |SDO<21>        |   16.381|
+AI<3>             |SDO<22>        |   16.230|
+AI<3>             |SDO<23>        |   16.083|
+AI<3>             |SDO<24>        |   15.368|
+AI<3>             |SDO<25>        |   15.235|
+AI<3>             |SDO<26>        |   15.401|
+AI<3>             |SDO<27>        |   15.872|
+AI<3>             |SDO<28>        |   15.612|
+AI<3>             |SDO<29>        |   16.602|
+AI<3>             |SDO<30>        |   16.523|
+AI<3>             |SDO<31>        |   16.624|
+AI<3>             |reg_adr<3>     |   12.789|
+AI<4>             |SDO<0>         |   17.011|
+AI<4>             |SDO<1>         |   16.809|
+AI<4>             |SDO<2>         |   16.962|
+AI<4>             |SDO<3>         |   16.708|
+AI<4>             |SDO<4>         |   16.956|
+AI<4>             |SDO<5>         |   18.049|
+AI<4>             |SDO<6>         |   18.088|
+AI<4>             |SDO<7>         |   17.736|
+AI<4>             |SDO<8>         |   16.142|
+AI<4>             |SDO<9>         |   17.149|
+AI<4>             |SDO<10>        |   16.071|
+AI<4>             |SDO<11>        |   16.129|
+AI<4>             |SDO<12>        |   16.378|
+AI<4>             |SDO<13>        |   16.508|
+AI<4>             |SDO<14>        |   15.775|
+AI<4>             |SDO<15>        |   16.286|
+AI<4>             |SDO<16>        |   14.969|
+AI<4>             |SDO<17>        |   15.632|
+AI<4>             |SDO<18>        |   15.582|
+AI<4>             |SDO<19>        |   16.250|
+AI<4>             |SDO<20>        |   16.532|
+AI<4>             |SDO<21>        |   16.352|
+AI<4>             |SDO<22>        |   16.248|
+AI<4>             |SDO<23>        |   16.101|
+AI<4>             |SDO<24>        |   15.779|
+AI<4>             |SDO<25>        |   15.396|
+AI<4>             |SDO<26>        |   15.621|
+AI<4>             |SDO<27>        |   16.038|
+AI<4>             |SDO<28>        |   15.778|
+AI<4>             |SDO<29>        |   16.734|
+AI<4>             |SDO<30>        |   16.655|
+AI<4>             |SDO<31>        |   16.844|
+AI<4>             |reg_adr<4>     |   13.608|
+AI<5>             |SDO<0>         |   15.492|
+AI<5>             |SDO<1>         |   15.741|
+AI<5>             |SDO<2>         |   15.234|
+AI<5>             |SDO<3>         |   15.595|
+AI<5>             |SDO<4>         |   15.709|
+AI<5>             |SDO<5>         |   14.429|
+AI<5>             |SDO<6>         |   14.147|
+AI<5>             |SDO<7>         |   14.162|
+AI<5>             |SDO<8>         |   15.107|
+AI<5>             |SDO<9>         |   14.642|
+AI<5>             |SDO<10>        |   14.731|
+AI<5>             |SDO<11>        |   14.536|
+AI<5>             |SDO<12>        |   14.750|
+AI<5>             |SDO<13>        |   15.106|
+AI<5>             |SDO<14>        |   14.894|
+AI<5>             |SDO<15>        |   13.806|
+AI<5>             |SDO<16>        |   14.155|
+AI<5>             |SDO<17>        |   14.358|
+AI<5>             |SDO<18>        |   14.733|
+AI<5>             |SDO<19>        |   13.391|
+AI<5>             |SDO<20>        |   14.012|
+AI<5>             |SDO<21>        |   13.321|
+AI<5>             |SDO<22>        |   12.805|
+AI<5>             |SDO<23>        |   12.606|
+AI<5>             |SDO<24>        |   13.393|
+AI<5>             |SDO<25>        |   14.003|
+AI<5>             |SDO<26>        |   13.358|
+AI<5>             |SDO<27>        |   13.905|
+AI<5>             |SDO<28>        |   13.778|
+AI<5>             |SDO<29>        |   14.669|
+AI<5>             |SDO<30>        |   14.217|
+AI<5>             |SDO<31>        |   14.073|
+AI<6>             |SDO<0>         |   15.356|
+AI<6>             |SDO<1>         |   15.050|
+AI<6>             |SDO<2>         |   15.126|
+AI<6>             |SDO<3>         |   14.892|
+AI<6>             |SDO<4>         |   15.178|
+AI<6>             |SDO<5>         |   14.320|
+AI<6>             |SDO<6>         |   13.481|
+AI<6>             |SDO<7>         |   13.798|
+AI<6>             |SDO<8>         |   15.158|
+AI<6>             |SDO<9>         |   14.189|
+AI<6>             |SDO<10>        |   14.886|
+AI<6>             |SDO<11>        |   14.358|
+AI<6>             |SDO<12>        |   14.023|
+AI<6>             |SDO<13>        |   14.162|
+AI<6>             |SDO<14>        |   14.071|
+AI<6>             |SDO<15>        |   13.274|
+AI<6>             |SDO<16>        |   13.661|
+AI<6>             |SDO<17>        |   13.682|
+AI<6>             |SDO<18>        |   14.611|
+AI<6>             |SDO<19>        |   12.566|
+AI<6>             |SDO<20>        |   13.470|
+AI<6>             |SDO<21>        |   12.874|
+AI<6>             |SDO<22>        |   11.985|
+AI<6>             |SDO<23>        |   12.260|
+AI<6>             |SDO<24>        |   12.900|
+AI<6>             |SDO<25>        |   13.633|
+AI<6>             |SDO<26>        |   12.697|
+AI<6>             |SDO<27>        |   13.365|
+AI<6>             |SDO<28>        |   13.409|
+AI<6>             |SDO<29>        |   13.837|
+AI<6>             |SDO<30>        |   13.863|
+AI<6>             |SDO<31>        |   13.915|
+in_init           |SDO<0>         |   19.548|
+in_init           |SDO<1>         |   19.346|
+in_init           |SDO<2>         |   19.441|
+in_init           |SDO<3>         |   19.187|
+in_init           |SDO<4>         |   19.398|
+in_init           |SDO<5>         |   20.491|
+in_init           |SDO<6>         |   20.403|
+in_init           |SDO<7>         |   20.051|
+in_init           |SDO<8>         |   18.434|
+in_init           |SDO<9>         |   19.441|
+in_init           |SDO<10>        |   18.356|
+in_init           |SDO<11>        |   18.414|
+in_init           |SDO<12>        |   18.672|
+in_init           |SDO<13>        |   18.802|
+in_init           |SDO<14>        |   18.105|
+in_init           |SDO<15>        |   18.616|
+in_init           |SDO<16>        |   17.752|
+in_init           |SDO<17>        |   17.471|
+in_init           |SDO<18>        |   17.431|
+in_init           |SDO<19>        |   18.099|
+in_init           |SDO<20>        |   18.276|
+in_init           |SDO<21>        |   18.096|
+in_init           |SDO<22>        |   18.339|
+in_init           |SDO<23>        |   18.192|
+in_init           |SDO<24>        |   17.618|
+in_init           |SDO<25>        |   17.140|
+in_init           |SDO<26>        |   17.365|
+in_init           |SDO<27>        |   17.891|
+in_init           |SDO<28>        |   17.631|
+in_init           |SDO<29>        |   18.478|
+in_init           |SDO<30>        |   18.399|
+in_init           |SDO<31>        |   18.588|
+input_signal_1<0> |SDO<0>         |   13.997|
+input_signal_1<1> |SDO<1>         |   14.331|
+input_signal_1<2> |SDO<2>         |   13.716|
+input_signal_1<3> |SDO<3>         |   14.089|
+input_signal_1<4> |SDO<4>         |   14.133|
+input_signal_1<5> |SDO<5>         |   13.229|
+input_signal_1<6> |SDO<6>         |   13.057|
+input_signal_1<7> |SDO<7>         |   12.806|
+input_signal_1<8> |SDO<8>         |   12.608|
+input_signal_1<9> |SDO<9>         |   12.794|
+input_signal_1<10>|SDO<10>        |   13.045|
+input_signal_1<11>|SDO<11>        |   12.820|
+input_signal_1<12>|SDO<12>        |   12.191|
+input_signal_1<13>|SDO<13>        |   13.119|
+input_signal_1<14>|SDO<14>        |   11.902|
+input_signal_1<15>|SDO<15>        |   11.235|
+input_signal_1<16>|SDO<16>        |   11.453|
+input_signal_1<17>|SDO<17>        |   11.231|
+input_signal_1<18>|SDO<18>        |   11.894|
+input_signal_1<19>|SDO<19>        |   11.532|
+input_signal_1<20>|SDO<20>        |   11.734|
+input_signal_1<21>|SDO<21>        |   11.887|
+input_signal_1<22>|SDO<22>        |   10.714|
+input_signal_1<23>|SDO<23>        |   10.777|
+input_signal_1<24>|SDO<24>        |   12.099|
+input_signal_1<25>|SDO<25>        |   11.552|
+input_signal_1<26>|SDO<26>        |   11.304|
+input_signal_1<27>|SDO<27>        |   12.052|
+input_signal_1<28>|SDO<28>        |   11.533|
+input_signal_1<29>|SDO<29>        |   12.110|
+input_signal_1<30>|SDO<30>        |   12.868|
+input_signal_1<31>|SDO<31>        |   12.682|
+input_signal_2<0> |SDO<0>         |   12.385|
+input_signal_2<1> |SDO<1>         |   13.128|
+input_signal_2<2> |SDO<2>         |   13.213|
+input_signal_2<3> |SDO<3>         |   12.056|
+input_signal_2<4> |SDO<4>         |   12.892|
+input_signal_2<5> |SDO<5>         |   12.701|
+input_signal_2<6> |SDO<6>         |   12.550|
+input_signal_2<7> |SDO<7>         |   12.526|
+input_signal_2<8> |SDO<8>         |   10.790|
+input_signal_2<9> |SDO<9>         |   11.572|
+input_signal_2<10>|SDO<10>        |   11.629|
+input_signal_2<11>|SDO<11>        |   10.988|
+input_signal_2<12>|SDO<12>        |   11.813|
+input_signal_2<13>|SDO<13>        |   11.277|
+input_signal_2<14>|SDO<14>        |   11.068|
+input_signal_2<15>|SDO<15>        |   11.351|
+input_signal_2<16>|SDO<16>        |   11.951|
+input_signal_2<17>|SDO<17>        |   11.245|
+input_signal_2<18>|SDO<18>        |   11.760|
+input_signal_2<19>|SDO<19>        |   12.125|
+input_signal_2<20>|SDO<20>        |   12.957|
+input_signal_2<21>|SDO<21>        |   12.708|
+input_signal_2<22>|SDO<22>        |   12.809|
+input_signal_2<23>|SDO<23>        |   12.849|
+input_signal_2<24>|SDO<24>        |   11.810|
+input_signal_2<25>|SDO<25>        |   12.036|
+input_signal_2<26>|SDO<26>        |   12.462|
+input_signal_2<27>|SDO<27>        |   13.828|
+input_signal_2<28>|SDO<28>        |   12.282|
+input_signal_2<29>|SDO<29>        |   13.364|
+input_signal_2<30>|SDO<30>        |   13.607|
+input_signal_2<31>|SDO<31>        |   14.197|
+step_en           |SDO<0>         |   18.625|
+step_en           |SDO<1>         |   18.423|
+step_en           |SDO<2>         |   18.518|
+step_en           |SDO<3>         |   18.264|
+step_en           |SDO<4>         |   18.475|
+step_en           |SDO<5>         |   19.568|
+step_en           |SDO<6>         |   19.480|
+step_en           |SDO<7>         |   19.128|
+step_en           |SDO<8>         |   17.511|
+step_en           |SDO<9>         |   18.518|
+step_en           |SDO<10>        |   17.433|
+step_en           |SDO<11>        |   17.491|
+step_en           |SDO<12>        |   17.749|
+step_en           |SDO<13>        |   17.879|
+step_en           |SDO<14>        |   17.182|
+step_en           |SDO<15>        |   17.693|
+step_en           |SDO<16>        |   16.829|
+step_en           |SDO<17>        |   16.548|
+step_en           |SDO<18>        |   16.508|
+step_en           |SDO<19>        |   17.176|
+step_en           |SDO<20>        |   17.353|
+step_en           |SDO<21>        |   17.173|
+step_en           |SDO<22>        |   17.416|
+step_en           |SDO<23>        |   17.269|
+step_en           |SDO<24>        |   16.695|
+step_en           |SDO<25>        |   16.217|
+step_en           |SDO<26>        |   16.442|
+step_en           |SDO<27>        |   16.968|
+step_en           |SDO<28>        |   16.708|
+step_en           |SDO<29>        |   17.555|
+step_en           |SDO<30>        |   17.476|
+step_en           |SDO<31>        |   17.665|
+stop_n            |SDO<0>         |   17.821|
+stop_n            |SDO<1>         |   17.619|
+stop_n            |SDO<2>         |   17.714|
+stop_n            |SDO<3>         |   17.460|
+stop_n            |SDO<4>         |   17.671|
+stop_n            |SDO<5>         |   18.764|
+stop_n            |SDO<6>         |   18.676|
+stop_n            |SDO<7>         |   18.324|
+stop_n            |SDO<8>         |   16.707|
+stop_n            |SDO<9>         |   17.714|
+stop_n            |SDO<10>        |   16.629|
+stop_n            |SDO<11>        |   16.687|
+stop_n            |SDO<12>        |   16.945|
+stop_n            |SDO<13>        |   17.075|
+stop_n            |SDO<14>        |   16.378|
+stop_n            |SDO<15>        |   16.889|
+stop_n            |SDO<16>        |   16.025|
+stop_n            |SDO<17>        |   15.744|
+stop_n            |SDO<18>        |   15.704|
+stop_n            |SDO<19>        |   16.372|
+stop_n            |SDO<20>        |   16.549|
+stop_n            |SDO<21>        |   16.369|
+stop_n            |SDO<22>        |   16.612|
+stop_n            |SDO<23>        |   16.465|
+stop_n            |SDO<24>        |   15.891|
+stop_n            |SDO<25>        |   15.413|
+stop_n            |SDO<26>        |   15.638|
+stop_n            |SDO<27>        |   16.164|
+stop_n            |SDO<28>        |   15.904|
+stop_n            |SDO<29>        |   16.751|
+stop_n            |SDO<30>        |   16.672|
+stop_n            |SDO<31>        |   16.861|
+------------------+---------------+---------+
+
+
+Analysis completed Mon May 09 15:47:30 2022 
+--------------------------------------------------------------------------------
+
+Trace Settings:
+-------------------------
+Trace Settings 
+
+Peak Memory Usage: 4596 MB
+
+
+

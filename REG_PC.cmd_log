@@ -1,0 +1,3 @@
+sch2sym -intstyle ise -family spartan6 -refsym REG_PC {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/REG_PC.sch} {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/REG_PC.sym} 
+sch2sym -intstyle ise -family spartan6 -refsym REG_PC {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/REG_PC.sch} {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/REG_PC.sym} 
+sch2sym -intstyle ise -family spartan6 -w -refsym REG_PC {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/REG_PC.sch} {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/REG_PC.sym} 

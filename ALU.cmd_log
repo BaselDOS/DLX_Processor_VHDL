@@ -1,0 +1,11 @@
+sch2sym -intstyle ise -family spartan6 -refsym ALU {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/ALU.sch} {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/ALU.sym} 
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl ALU_drc.vhf -w {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/ALU.sch} 
+sch2sym -intstyle ise -family spartan6 -w -refsym ALU {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/ALU.sch} {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/ALU.sym} 
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl ALU_drc.vhf -w {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/ALU.sch} 
+sch2sym -intstyle ise -family spartan6 -w -refsym ALU {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/ALU.sch} {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/ALU.sym} 
+sch2sym -intstyle ise -family spartan6 -w -refsym ALU {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/ALU.sch} {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/ALU.sym} 
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl ALU_drc.vhf -w {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/ALU.sch} 
+sch2sym -intstyle ise -family spartan6 -w -refsym ALU {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/ALU.sch} {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/ALU.sym} 
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl ALU_drc.vhf -w {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/ALU.sch} 
+sch2sym -intstyle ise -family spartan6 -w -refsym ALU {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/ALU.sch} {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/ALU.sym} 
+sch2sym -intstyle ise -family spartan6 -w -refsym ALU {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/ALU.sch} {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/ALU.sym} 

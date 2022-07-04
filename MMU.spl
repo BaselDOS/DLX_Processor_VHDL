@@ -1,0 +1,5 @@
+[Inputs]
+=MMU_In[31:0]=
+[Outputs]
+=MMU_Out[31:0]=
+[BiDir]

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/IOSIM_DATA_P_IOSIM_DATA_P_sch_tb_isim_beh.exe" -prj "F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/IOSIM_DATA_P_IOSIM_DATA_P_sch_tb_beh.prj" "work.IOSIM_DATA_P_IOSIM_DATA_P_sch_tb" 

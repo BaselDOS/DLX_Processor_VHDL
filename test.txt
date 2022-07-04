@@ -1,0 +1,23 @@
+X"8C010011",  -- 0x00000000 	start      	 	lw R1 R0 data1 	*R1=M(data1)=0x1
+X"8C020012",  -- 0x00000001 	            	 	lw R2 R0 data2 	*R2=M(data2)=0x1234567
+X"8C030013",  -- 0x00000002 	            	 	lw R3 R0 data3 	*R3=M(data3)=0xfedec987
+X"8C040014",  -- 0x00000003 	            	 	lw R4 R0 data4 	*R4=M(data4)=0xabcdef01
+X"AC01000D",  -- 0x00000004 	            	 	sw R1 R0 adr1 	*M(adr1)=R1
+X"AC02000E",  -- 0x00000005 	            	 	sw R2 R0 adr2 	*M(adr2)=R2
+X"AC03000F",  -- 0x00000006 	            	 	sw R3 R0 adr3 	*M(adr3)=R3
+X"AC040010",  -- 0x00000007 	            	 	sw R4 R0 adr4 	*M(adr4)=R4
+X"AC04000D",  -- 0x00000008 	            	 	sw R4 R0 adr1 	*M(adr1)=R4
+X"AC03000E",  -- 0x00000009 	            	 	sw R3 R0 adr2 	*M(adr2)=R3
+X"AC02000F",  -- 0x0000000A 	            	 	sw R2 R0 adr3 	*M(adr3)=R2
+X"AC010010",  -- 0x0000000B 	            	 	sw R1 R0 adr4 	*M(adr4)=R1
+X"FFFF2F00",  -- 0x0000000C 	            	 	halt 		*HALT instruction
+X"00000000",  -- 0x0000000D 	adr1       	 dc 0x0
+X"00000000",  -- 0x0000000E 	adr2       	 dc 0x0
+X"00000000",  -- 0x0000000F 	adr3       	 dc 0x0
+X"00000000",  -- 0x00000010 	adr4       	 dc 0x0
+X"00000001",  -- 0x00000011 	data1      	 	dc 0x1
+X"01234567",  -- 0x00000012 	data2      	 	dc 0x1234567
+X"FEDEC987",  -- 0x00000013 	data3      	 	dc 0xfedec987
+X"ABCDEF01",  -- 0x00000014 	data4      	 	dc 0xabcdef01
+
+-- Number of converted lines is : 21

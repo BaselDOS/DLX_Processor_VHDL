@@ -1,0 +1,13 @@
+[Inputs]
+clk
+reset
+ACK_N
+MW
+MR
+[Outputs]
+STOP_N
+BUSY
+AS_N
+WR_N
+=state[1:0]=
+[BiDir]

@@ -1,0 +1,112 @@
+Running: F:\ProgramData\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/IOSIM_DATA_P_IOSIM_DATA_P_sch_tb_isim_beh.exe -prj F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/IOSIM_DATA_P_IOSIM_DATA_P_sch_tb_beh.prj work.IOSIM_DATA_P_IOSIM_DATA_P_sch_tb 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/MUX16bit.vhd" into library work
+Parsing VHDL file "F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/AEQZ.vhd" into library work
+Parsing VHDL file "F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/XOR32.vhd" into library work
+Parsing VHDL file "F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/sram_data.vhd" into library work
+Parsing VHDL file "F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/REG_ZERO.vhd" into library work
+Parsing VHDL file "F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/REG32RST.vhd" into library work
+Parsing VHDL file "F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/REG32CE.vhd" into library work
+Parsing VHDL file "F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/RAM32X32S.vhd" into library work
+Parsing VHDL file "F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/OR32.VHD" into library work
+Parsing VHDL file "F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/Mux_IR.vhd" into library work
+Parsing VHDL file "F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/MUX5BIT.vhd" into library work
+Parsing VHDL file "F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/MUX3BIT.vhd" into library work
+Parsing VHDL file "F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/MUX32bit.vhd" into library work
+Parsing VHDL file "F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/Mac.vhd" into library work
+Parsing VHDL file "F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/FULL_DLX_GPR_opt2.vhf" into library work
+Parsing VHDL file "F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/DLX_Full_StateMachine.vhd" into library work
+Parsing VHDL file "F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/C011.vhd" into library work
+Parsing VHDL file "F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/BUF6.vhd" into library work
+Parsing VHDL file "F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/BUF5.vhd" into library work
+Parsing VHDL file "F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/BUF16.vhd" into library work
+Parsing VHDL file "F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/AND32.VHD" into library work
+Parsing VHDL file "F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/ALU_Comprator.vhf" into library work
+Parsing VHDL file "F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/ALU_ADDER.vhf" into library work
+Parsing VHDL file "F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/SRAM.VHD" into library work
+Parsing VHDL file "F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/SHIFTER.vhd" into library work
+Parsing VHDL file "F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/REG_ZERO_32.vhd" into library work
+Parsing VHDL file "F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/REG_PC.vhf" into library work
+Parsing VHDL file "F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/REG_A_B_C.vhf" into library work
+Parsing VHDL file "F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/MUX4_32bit.vhd" into library work
+Parsing VHDL file "F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/MMU.vhd" into library work
+Parsing VHDL file "F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/Full_IR_Inv.vhf" into library work
+Parsing VHDL file "F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/Full_DLX_GPR.vhf" into library work
+Parsing VHDL file "F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/DLX_Full_Control.vhf" into library work
+Parsing VHDL file "F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/ALU.vhf" into library work
+Parsing VHDL file "F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/IO_SIMUL.VHD" into library work
+Parsing VHDL file "F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/Full_Data_Path.vhf" into library work
+Parsing VHDL file "F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/IOSIM_DATA_P.vhf" into library work
+Parsing VHDL file "F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/IOSIM_DATA_P_tb.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling package vcomponents
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling package sram_data
+Compiling architecture behavioral of entity sram [\sram(1024,10)\]
+Compiling architecture behavioral of entity IO_SIMUL [io_simul_default]
+Compiling architecture behavioral of entity MUX32bit [mux32bit_default]
+Compiling architecture behavioral of entity REG32CE [reg32ce_default]
+Compiling architecture behavioral of entity REG_A_B_C_MUSER_IOSIM_DATA_P [reg_a_b_c_muser_iosim_data_p_def...]
+Compiling architecture behavioral of entity MUX4_32bit [mux4_32bit_default]
+Compiling architecture behavioral of entity REG_ZERO_31 [reg_zero_31_default]
+Compiling architecture behavioral of entity REG_ZERO_32 [reg_zero_32_default]
+Compiling architecture or5_v of entity OR5 [or5_default]
+Compiling architecture or2_v of entity OR2 [or2_default]
+Compiling architecture and2_v of entity AND2 [and2_default]
+Compiling architecture behavioral of entity FULL_DLX_GPR_opt2_MUSER_IOSIM_DATA_P [full_dlx_gpr_opt2_muser_iosim_da...]
+Compiling architecture behavioral of entity AEQZ [aeqz_default]
+Compiling architecture behavioral of entity MUX5BIT [mux5bit_default]
+Compiling package textio
+Compiling package vital_timing
+Compiling package vital_primitives
+Compiling package vpkg
+Compiling architecture ram32x1s_v of entity RAM32X1S [\RAM32X1S("000000000000000000000...]
+Compiling architecture behavioral of entity RAM32X8S_MXILINX_slave_monitor [ram32x8s_mxilinx_slave_monitor_d...]
+Compiling architecture behavioral of entity RAM32X32S [ram32x32s_default]
+Compiling architecture behavioral of entity Full_DLX_GPR_MUSER_IOSIM_DATA_P [full_dlx_gpr_muser_iosim_data_p_...]
+Compiling architecture behavioral of entity REG32RST [reg32rst_default]
+Compiling architecture behavioral of entity REG_PC_MUSER_IOSIM_DATA_P [reg_pc_muser_iosim_data_p_defaul...]
+Compiling architecture behavioral of entity SHIFTER [shifter_default]
+Compiling architecture behavioral of entity MUX3BIT [mux3bit_default]
+Compiling architecture behavioral of entity C011 [c011_default]
+Compiling architecture adsu16_hxilinx_iosim_data_p_v of entity ADSU16_HXILINX_IOSIM_DATA_P [adsu16_hxilinx_iosim_data_p_defa...]
+Compiling architecture xor4_v of entity XOR4 [xor4_default]
+Compiling architecture inv_v of entity INV [inv_default]
+Compiling architecture vcc_v of entity VCC [vcc_default]
+Compiling architecture gnd_v of entity GND [gnd_default]
+Compiling architecture m2_1_hxilinx_iosim_data_p_v of entity M2_1_HXILINX_IOSIM_DATA_P [m2_1_hxilinx_iosim_data_p_defaul...]
+Compiling architecture behavioral of entity MUX16bit [mux16bit_default]
+Compiling architecture behavioral of entity ALU_ADDER_MUSER_IOSIM_DATA_P [alu_adder_muser_iosim_data_p_def...]
+Compiling architecture and2b1_v of entity AND2B1 [and2b1_default]
+Compiling architecture behavioral of entity ALU_Comprator_MUSER_IOSIM_DATA_P [alu_comprator_muser_iosim_data_p...]
+Compiling architecture behavioral of entity XOR32 [xor32_default]
+Compiling architecture behavioral of entity OR32 [or32_default]
+Compiling architecture behavioral of entity AND32 [and32_default]
+Compiling architecture nor2b1_v of entity NOR2B1 [nor2b1_default]
+Compiling architecture behavioral of entity ALU_MUSER_IOSIM_DATA_P [alu_muser_iosim_data_p_default]
+Compiling architecture behavioral of entity MMU [mmu_default]
+Compiling architecture behavioral of entity BUF16 [buf16_default]
+Compiling architecture behavioral of entity BUF6 [buf6_default]
+Compiling architecture behavioral of entity Mux_IR [mux_ir_default]
+Compiling architecture behavioral of entity BUF5 [buf5_default]
+Compiling architecture behavioral of entity Full_IR_Inv_MUSER_IOSIM_DATA_P [full_ir_inv_muser_iosim_data_p_d...]
+Compiling architecture behavioral of entity Mac [mac_default]
+Compiling architecture behavioral of entity DLX_Full_StateMachine [dlx_full_statemachine_default]
+Compiling architecture behavioral of entity DLX_Full_Control_MUSER_IOSIM_DATA_P [dlx_full_control_muser_iosim_dat...]
+Compiling architecture behavioral of entity Full_Data_Path_MUSER_IOSIM_DATA_P [full_data_path_muser_iosim_data_...]
+Compiling architecture behavioral of entity IOSIM_DATA_P [iosim_data_p_default]
+Compiling architecture behavioral of entity iosim_data_p_iosim_data_p_sch_tb
+Time Resolution for simulation is 1ps.
+Waiting for 51 sub-compilation(s) to finish...
+Compiled 110 VHDL Units
+Built simulation executable F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/IOSIM_DATA_P_IOSIM_DATA_P_sch_tb_isim_beh.exe
+Fuse Memory Usage: 64168 KB
+Fuse CPU Usage: 1843 ms

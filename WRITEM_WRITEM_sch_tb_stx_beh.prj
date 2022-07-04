@@ -1,0 +1,4 @@
+vhdl isim_temp "WRITE_MACHINE.vhd"
+vhdl isim_temp "ID.vhd"
+vhdl isim_temp "CNT32.vhd"
+vhdl isim_temp "write_test.vhd"

@@ -1,0 +1,5 @@
+vhdl work "WRITE_MACHINE.vhd"
+vhdl work "ID.vhd"
+vhdl work "CNT32.vhd"
+vhdl work "WRITEM.vhf"
+vhdl work "write_test.vhd"

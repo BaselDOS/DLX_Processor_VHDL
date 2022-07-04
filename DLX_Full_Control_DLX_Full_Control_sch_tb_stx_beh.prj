@@ -1,0 +1,4 @@
+vhdl isim_temp "Mac.vhd"
+vhdl isim_temp "DLX_Full_StateMachine.vhd"
+vhdl isim_temp "DLX_Full_Control.vhf"
+vhdl isim_temp "DLX_Full_Control_tb.vhd"

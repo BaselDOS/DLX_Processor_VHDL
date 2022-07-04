@@ -1,0 +1,2 @@
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl DLX_LS_drc.vhf -w {F:/semesterB2021/computer artitichture Lab/backUp/B6/25042022/B6/25042022/B6/Home_S251/DLX_LS.sch} 
+sch2sym -intstyle ise -family spartan6 -refsym DLX_LS {F:/semesterB2021/computer artitichture Lab/backUp/B6/25042022/B6/25042022/B6/Home_S251/DLX_LS.sch} {F:/semesterB2021/computer artitichture Lab/backUp/B6/25042022/B6/25042022/B6/Home_S251/DLX_LS.sym} 

@@ -1,0 +1,28 @@
+Command line:
+   IOSIM_DATA_P_IOSIM_DATA_P_sch_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  1049
+
+Thu Jun 09 19:35:10 2022
+
+
+ Elaboration Time: 0.28125 sec
+
+ Current Memory Usage: 5511.89 Meg
+
+ Total Signals          : 1646
+ Total Nets             : 37237
+ Total Signal Drivers   : 337
+ Total Blocks           : 200
+ Total Primitive Blocks : 170
+ Total Processes        : 324
+ Total Traceable Variables  : 251
+ Total Scalar Nets and Variables : 46369
+
+ Total Simulation Time: 0.546875 sec
+
+ Current Memory Usage: 4758.62 Meg
+
+Sat Jun 11 03:39:47 2022
+

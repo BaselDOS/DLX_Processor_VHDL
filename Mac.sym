@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<symbol version="7" name="Mac">
+    <symboltype>BLOCK</symboltype>
+    <timestamp>2022-6-8T14:19:37</timestamp>
+    <pin polarity="Input" x="0" y="-288" name="clk" />
+    <pin polarity="Input" x="0" y="-224" name="reset" />
+    <pin polarity="Input" x="0" y="-64" name="ACK_N" />
+    <pin polarity="Input" x="0" y="-176" name="MW" />
+    <pin polarity="Input" x="0" y="-128" name="MR" />
+    <pin polarity="Output" x="384" y="-128" name="STOP_N" />
+    <pin polarity="Output" x="384" y="-272" name="BUSY" />
+    <pin polarity="Output" x="384" y="-224" name="AS_N" />
+    <pin polarity="Output" x="384" y="-176" name="WR_N" />
+    <pin polarity="Output" x="384" y="-64" name="state(1:0)" />
+    <graph>
+        <attrtext style="alignment:BCENTER;fontsize:56;fontname:Arial" attrname="SymbolName" x="184" y="-328" type="symbol" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-288" type="pin clk" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-224" type="pin reset" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-64" type="pin ACK_N" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-176" type="pin MW" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-128" type="pin MR" />
+        <attrtext style="alignment:RIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="312" y="-128" type="pin STOP_N" />
+        <attrtext style="alignment:RIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="312" y="-272" type="pin BUSY" />
+        <attrtext style="alignment:RIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="312" y="-224" type="pin AS_N" />
+        <attrtext style="alignment:RIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="312" y="-176" type="pin WR_N" />
+        <attrtext style="alignment:RIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="312" y="-64" type="pin state(1:0)" />
+        <line x2="0" y1="-288" y2="-288" x1="64" />
+        <line x2="0" y1="-224" y2="-224" x1="64" />
+        <rect width="256" x="64" y="-320" height="308" />
+        <line x2="384" y1="-272" y2="-272" x1="320" />
+        <line x2="384" y1="-224" y2="-224" x1="320" />
+        <line x2="384" y1="-176" y2="-176" x1="320" />
+        <line x2="384" y1="-128" y2="-128" x1="320" />
+        <rect width="64" x="320" y="-76" height="24" />
+        <line x2="384" y1="-64" y2="-64" x1="320" />
+        <line x2="0" y1="-176" y2="-176" x1="64" />
+        <line x2="0" y1="-128" y2="-128" x1="64" />
+        <line x2="0" y1="-64" y2="-64" x1="64" />
+    </graph>
+</symbol>

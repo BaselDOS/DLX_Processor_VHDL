@@ -1,0 +1,2 @@
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl GPR_WE_opt2_drc.vhf -w {F:/semesterB2021/computer artitichture Lab/backUp/B6/25042022/B6/25042022/B6/Home_S251/GPR_WE_opt2.sch} 
+sch2sym -intstyle ise -family spartan6 -refsym GPR_WE_opt2 {F:/semesterB2021/computer artitichture Lab/backUp/B6/25042022/B6/25042022/B6/Home_S251/GPR_WE_opt2.sch} {F:/semesterB2021/computer artitichture Lab/backUp/B6/25042022/B6/25042022/B6/Home_S251/GPR_WE_opt2.sym} 

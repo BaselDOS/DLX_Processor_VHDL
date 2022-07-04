@@ -1,0 +1,18 @@
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl IOSIM_DATA_P_drc.vhf -w {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/IOSIM_DATA_P.sch} 
+sch2sym -intstyle ise -family spartan6 -w -refsym IOSIM_DATA_P {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/IOSIM_DATA_P.sch} {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/IOSIM_DATA_P.sym} 
+sch2sym -intstyle ise -family spartan6 -w -refsym IOSIM_DATA_P {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/IOSIM_DATA_P.sch} {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/IOSIM_DATA_P.sym} 
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl IOSIM_DATA_P_drc.vhf -w {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/IOSIM_DATA_P.sch} 
+sch2sym -intstyle ise -family spartan6 -w -refsym IOSIM_DATA_P {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/IOSIM_DATA_P.sch} {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/IOSIM_DATA_P.sym} 
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl IOSIM_DATA_P_drc.vhf -w {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/IOSIM_DATA_P.sch} 
+sch2sym -intstyle ise -family spartan6 -w -refsym IOSIM_DATA_P {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/IOSIM_DATA_P.sch} {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/IOSIM_DATA_P.sym} 
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl IOSIM_DATA_P_drc.vhf -w {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/IOSIM_DATA_P.sch} 
+sch2sym -intstyle ise -family spartan6 -w -refsym IOSIM_DATA_P {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/IOSIM_DATA_P.sch} {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/IOSIM_DATA_P.sym} 
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl IOSIM_DATA_P_drc.vhf -w {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/IOSIM_DATA_P.sch} 
+sch2sym -intstyle ise -family spartan6 -w -refsym IOSIM_DATA_P {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/IOSIM_DATA_P.sch} {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/IOSIM_DATA_P.sym} 
+sch2sym -intstyle ise -family spartan6 -w -refsym IOSIM_DATA_P {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/IOSIM_DATA_P.sch} {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/IOSIM_DATA_P.sym} 
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl IOSIM_DATA_P_drc.vhf -w {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/IOSIM_DATA_P.sch} 
+sch2sym -intstyle ise -family spartan6 -w -refsym IOSIM_DATA_P {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/IOSIM_DATA_P.sch} {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/IOSIM_DATA_P.sym} 
+sch2sym -intstyle ise -family spartan6 -w -refsym IOSIM_DATA_P {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/IOSIM_DATA_P.sch} {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/IOSIM_DATA_P.sym} 
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl IOSIM_DATA_P_drc.vhf -w {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/IOSIM_DATA_P.sch} 
+sch2sym -intstyle ise -family spartan6 -w -refsym IOSIM_DATA_P {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/IOSIM_DATA_P.sch} {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/IOSIM_DATA_P.sym} 
+sch2sym -intstyle ise -family spartan6 -w -refsym IOSIM_DATA_P {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/IOSIM_DATA_P.sch} {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/IOSIM_DATA_P.sym} 

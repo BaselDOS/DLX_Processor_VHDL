@@ -1,0 +1,5 @@
+xst -intstyle ise -ifn "F:/semesterB2021/computer artitichture Lab/backUp/B6/25042022/B6/25042022/B6/Home_S251/Monitor.xst" -ofn "F:/semesterB2021/computer artitichture Lab/backUp/B6/25042022/B6/25042022/B6/Home_S251/Monitor.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx25-ftg256-2 "Monitor.ngc" Monitor.ngd  
+map -intstyle ise -p xc6slx25-ftg256-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Monitor_map.ncd Monitor.ngd Monitor.pcf 
+par -w -intstyle ise -ol high -mt off Monitor_map.ncd Monitor.ncd Monitor.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml Monitor.twx Monitor.ncd -o Monitor.twr Monitor.pcf 

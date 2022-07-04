@@ -1,0 +1,3 @@
+vhdl work "sram_data.vhd"
+vhdl work "SRAM.VHD"
+vhdl work "IO_SIMUL.VHD"

@@ -1,0 +1,7 @@
+[Inputs]
+shift
+right
+=DIN[31:0]=
+[Outputs]
+=DOUT[31:0]=
+[BiDir]

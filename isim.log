@@ -1,0 +1,61 @@
+ISim log file
+Running: F:\semesterB2021\computer artitichture Lab\exp7\B6\Home_S251\IOSIM_DATA_P_IOSIM_DATA_P_sch_tb_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/IOSIM_DATA_P_IOSIM_DATA_P_sch_tb_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 5000 ns
+Simulator is doing circuit initialization process.
+at 0 ps, Instance /iosim_data_p_iosim_data_p_sch_tb/UUT/XLXI_4/XLXI_15/XLXI_11/LSB0/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /iosim_data_p_iosim_data_p_sch_tb/UUT/XLXI_4/XLXI_15/XLXI_11/LSB0/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 0 ps, Instance /iosim_data_p_iosim_data_p_sch_tb/UUT/XLXI_4/XLXI_15/XLXI_11/LSB0/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 0 ps, Instance /iosim_data_p_iosim_data_p_sch_tb/UUT/XLXI_4/XLXI_15/XLXI_11/LSB0/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 0 ps, Instance /iosim_data_p_iosim_data_p_sch_tb/UUT/XLXI_4/XLXI_15/XLXI_11/MSB0/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 0 ps, Instance /iosim_data_p_iosim_data_p_sch_tb/UUT/XLXI_4/XLXI_15/XLXI_11/MSB0/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 0 ps, Instance /iosim_data_p_iosim_data_p_sch_tb/UUT/XLXI_4/XLXI_15/XLXI_11/MSB1/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 0 ps, Instance /iosim_data_p_iosim_data_p_sch_tb/UUT/XLXI_4/XLXI_15/XLXI_11/MSB1/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Finished circuit initialization process.
+at 0 ps, Instance /iosim_data_p_iosim_data_p_sch_tb/UUT/XLXI_4/XLXI_15/XLXI_11/MSB0/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 0 ps, Instance /iosim_data_p_iosim_data_p_sch_tb/UUT/XLXI_4/XLXI_15/XLXI_11/MSB1/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 0 ps, Instance /iosim_data_p_iosim_data_p_sch_tb/UUT/XLXI_4/XLXI_15/XLXI_11/LSB0/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 0 ps, Instance /iosim_data_p_iosim_data_p_sch_tb/UUT/XLXI_4/XLXI_15/XLXI_11/LSB0/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 0 ps, Instance /iosim_data_p_iosim_data_p_sch_tb/UUT/XLXI_4/XLXI_15/XLXI_11/LSB0/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 0 ps, Instance /iosim_data_p_iosim_data_p_sch_tb/UUT/XLXI_4/XLXI_15/XLXI_11/LSB0/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+# restart
+# run 1.00us
+Simulator is doing circuit initialization process.
+at 0 ps, Instance /iosim_data_p_iosim_data_p_sch_tb/UUT/XLXI_4/XLXI_15/XLXI_11/LSB0/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 0 ps, Instance /iosim_data_p_iosim_data_p_sch_tb/UUT/XLXI_4/XLXI_15/XLXI_11/LSB0/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 0 ps, Instance /iosim_data_p_iosim_data_p_sch_tb/UUT/XLXI_4/XLXI_15/XLXI_11/LSB0/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 0 ps, Instance /iosim_data_p_iosim_data_p_sch_tb/UUT/XLXI_4/XLXI_15/XLXI_11/MSB0/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 0 ps, Instance /iosim_data_p_iosim_data_p_sch_tb/UUT/XLXI_4/XLXI_15/XLXI_11/MSB0/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 0 ps, Instance /iosim_data_p_iosim_data_p_sch_tb/UUT/XLXI_4/XLXI_15/XLXI_11/MSB1/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 0 ps, Instance /iosim_data_p_iosim_data_p_sch_tb/UUT/XLXI_4/XLXI_15/XLXI_11/MSB1/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Finished circuit initialization process.
+at 0 ps, Instance /iosim_data_p_iosim_data_p_sch_tb/UUT/XLXI_4/XLXI_15/XLXI_11/MSB0/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 0 ps, Instance /iosim_data_p_iosim_data_p_sch_tb/UUT/XLXI_4/XLXI_15/XLXI_11/MSB1/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 0 ps, Instance /iosim_data_p_iosim_data_p_sch_tb/UUT/XLXI_4/XLXI_15/XLXI_11/LSB0/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 0 ps, Instance /iosim_data_p_iosim_data_p_sch_tb/UUT/XLXI_4/XLXI_15/XLXI_11/LSB0/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 0 ps, Instance /iosim_data_p_iosim_data_p_sch_tb/UUT/XLXI_4/XLXI_15/XLXI_11/LSB0/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 0 ps, Instance /iosim_data_p_iosim_data_p_sch_tb/UUT/XLXI_4/XLXI_15/XLXI_11/LSB0/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+# run 1.00us
+# run 1.00us
+# run 1.00us
+# run 1.00us
+# run 1.00us
+# run 1.00us
+# run 1.00us
+# run 1.00us
+# run 1.00us
+# run 1.00us
+# run 1.00us
+# run 1.00us
+# run 1.00us
+# run 1.00us
+# run 1.00us
+# run 1.00us
+# run 1.00us
+# run 1.00us
+# run 1.00us
+# run 1.00us

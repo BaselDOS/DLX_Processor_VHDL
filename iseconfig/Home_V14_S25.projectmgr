@@ -1,0 +1,237 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="Home_V14_S25" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/ALU F:|semesterB2021|computer artitichture Lab|ref|ref|lab77|acsl.lab|Home_S255_|ALU.sch</ClosedNode>
+         <ClosedNode>/ALU F:|semesterB2021|computer artitichture Lab|ref|ref|lab77|acsl.lab|Home_S255_|ALU.sch/XLXI_11 - ALU_ADDER</ClosedNode>
+         <ClosedNode>/ALU_Compare F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|ALU_Compare.sch</ClosedNode>
+         <ClosedNode>/DLX_Full_Control F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|DLX_Full_Control.sch</ClosedNode>
+         <ClosedNode>/Data_Path F:|semesterB2021|computer artitichture Lab|backUp|B6|25042022|B6|25042022|B6|Home_S251|Data_Path.sch/XLXI_1 - DLX_LS</ClosedNode>
+         <ClosedNode>/Data_Path F:|semesterB2021|computer artitichture Lab|backUp|B6|25042022|B6|25042022|B6|Home_S251|Data_Path.sch/XLXI_2 - GPR</ClosedNode>
+         <ClosedNode>/Data_Path F:|semesterB2021|computer artitichture Lab|backUp|B6|25042022|B6|25042022|B6|Home_S251|Data_Path.sch/XLXI_4 - PC</ClosedNode>
+         <ClosedNode>/Data_Path F:|semesterB2021|computer artitichture Lab|backUp|B6|25042022|B6|25042022|B6|Home_S251|Data_Path.sch/XLXI_5 - IR</ClosedNode>
+         <ClosedNode>/Data_Path F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|Data_Path.sch</ClosedNode>
+         <ClosedNode>/Data_Path F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|Data_Path.sch/XLXI_2 - GPR</ClosedNode>
+         <ClosedNode>/Data_Path F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|Data_Path.sch/XLXI_4 - PC</ClosedNode>
+         <ClosedNode>/Data_Path F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|Data_Path.sch/XLXI_5 - IR</ClosedNode>
+         <ClosedNode>/Full_Data_Path F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|Full_Data_Path.sch</ClosedNode>
+         <ClosedNode>/Full_Data_Path F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|Full_Data_Path.sch/REG_A - REG_A_B_C</ClosedNode>
+         <ClosedNode>/Full_Data_Path F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|Full_Data_Path.sch/REG_B - REG_A_B_C</ClosedNode>
+         <ClosedNode>/Full_Data_Path F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|Full_Data_Path.sch/XLXI_118 - Full_IR_Inv</ClosedNode>
+         <ClosedNode>/Full_Data_Path F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|Full_Data_Path.sch/XLXI_15 - ALU</ClosedNode>
+         <ClosedNode>/Full_Data_Path F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|Full_Data_Path.sch/XLXI_153 - DLX_Full_Control</ClosedNode>
+         <ClosedNode>/Full_Data_Path F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|Full_Data_Path.sch/XLXI_157 - REG_A_B_C</ClosedNode>
+         <ClosedNode>/Full_Data_Path F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|Full_Data_Path.sch/XLXI_159 - REG_A_B_C</ClosedNode>
+         <ClosedNode>/Full_Data_Path F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|Full_Data_Path.sch/XLXI_160 - REG_A_B_C</ClosedNode>
+         <ClosedNode>/Full_Data_Path F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|Full_Data_Path.sch/XLXI_4 - Full_DLX_GPR</ClosedNode>
+         <ClosedNode>/Full_Data_Path F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|Full_Data_Path.sch/XLXI_7 - REG_PC</ClosedNode>
+         <ClosedNode>/GPR F:|semesterB2021|computer artitichture Lab|backUp|B6|25042022|B6|25042022|B6|Home_S251|GPR.sch</ClosedNode>
+         <ClosedNode>/IOSIM_DATA_P F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|IOSIM_DATA_P.sch/XLXI_1 - Full_Data_Path/XLXI_118 - Full_IR_Inv</ClosedNode>
+         <ClosedNode>/IOSIM_DATA_P F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|IOSIM_DATA_P.sch/XLXI_1 - Full_Data_Path/XLXI_15 - ALU</ClosedNode>
+         <ClosedNode>/IOSIM_DATA_P F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|IOSIM_DATA_P.sch/XLXI_1 - Full_Data_Path/XLXI_157 - REG_A_B_C</ClosedNode>
+         <ClosedNode>/IOSIM_DATA_P F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|IOSIM_DATA_P.sch/XLXI_1 - Full_Data_Path/XLXI_159 - REG_A_B_C</ClosedNode>
+         <ClosedNode>/IOSIM_DATA_P F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|IOSIM_DATA_P.sch/XLXI_1 - Full_Data_Path/XLXI_160 - REG_A_B_C</ClosedNode>
+         <ClosedNode>/IOSIM_DATA_P F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|IOSIM_DATA_P.sch/XLXI_1 - Full_Data_Path/XLXI_4 - Full_DLX_GPR</ClosedNode>
+         <ClosedNode>/IOSIM_DATA_P F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|IOSIM_DATA_P.sch/XLXI_1 - Full_Data_Path/XLXI_7 - REG_PC</ClosedNode>
+         <ClosedNode>/IOSIM_DATA_P F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|IOSIM_DATA_P.sch/XLXI_2 - IO_SIMUL - Behavioral</ClosedNode>
+         <ClosedNode>/IOSIM_DATA_P F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|IOSIM_DATA_P.sch/XLXI_3 - Full_Data_Path/Register_A - REG_A_B_C</ClosedNode>
+         <ClosedNode>/IOSIM_DATA_P F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|IOSIM_DATA_P.sch/XLXI_3 - Full_Data_Path/Register_B - REG_A_B_C</ClosedNode>
+         <ClosedNode>/IOSIM_DATA_P F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|IOSIM_DATA_P.sch/XLXI_3 - Full_Data_Path/Register_C - REG_A_B_C</ClosedNode>
+         <ClosedNode>/IOSIM_DATA_P F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|IOSIM_DATA_P.sch/XLXI_3 - Full_Data_Path/XLXI_118 - Full_IR_Inv</ClosedNode>
+         <ClosedNode>/IOSIM_DATA_P F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|IOSIM_DATA_P.sch/XLXI_3 - Full_Data_Path/XLXI_15 - ALU</ClosedNode>
+         <ClosedNode>/IOSIM_DATA_P F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|IOSIM_DATA_P.sch/XLXI_3 - Full_Data_Path/XLXI_157 - REG_A_B_C</ClosedNode>
+         <ClosedNode>/IOSIM_DATA_P F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|IOSIM_DATA_P.sch/XLXI_3 - Full_Data_Path/XLXI_159 - REG_A_B_C</ClosedNode>
+         <ClosedNode>/IOSIM_DATA_P F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|IOSIM_DATA_P.sch/XLXI_3 - Full_Data_Path/XLXI_160 - REG_A_B_C</ClosedNode>
+         <ClosedNode>/IOSIM_DATA_P F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|IOSIM_DATA_P.sch/XLXI_3 - Full_Data_Path/XLXI_161 - DLX_Full_Control</ClosedNode>
+         <ClosedNode>/IOSIM_DATA_P F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|IOSIM_DATA_P.sch/XLXI_3 - Full_Data_Path/XLXI_4 - Full_DLX_GPR</ClosedNode>
+         <ClosedNode>/IOSIM_DATA_P F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|IOSIM_DATA_P.sch/XLXI_3 - Full_Data_Path/XLXI_7 - REG_PC</ClosedNode>
+         <ClosedNode>/IOSIM_DATA_P F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|IOSIM_DATA_P.sch/XLXI_4 - Full_Data_Path/Register_A - REG_A_B_C</ClosedNode>
+         <ClosedNode>/IOSIM_DATA_P F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|IOSIM_DATA_P.sch/XLXI_4 - Full_Data_Path/Register_B - REG_A_B_C</ClosedNode>
+         <ClosedNode>/IOSIM_DATA_P F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|IOSIM_DATA_P.sch/XLXI_4 - Full_Data_Path/Register_C - REG_A_B_C</ClosedNode>
+         <ClosedNode>/IOSIM_DATA_P F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|IOSIM_DATA_P.sch/XLXI_4 - Full_Data_Path/XLXI_118 - Full_IR_Inv</ClosedNode>
+         <ClosedNode>/IOSIM_DATA_P F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|IOSIM_DATA_P.sch/XLXI_4 - Full_Data_Path/XLXI_15 - ALU</ClosedNode>
+         <ClosedNode>/IOSIM_DATA_P F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|IOSIM_DATA_P.sch/XLXI_4 - Full_Data_Path/XLXI_162 - DLX_Full_Control</ClosedNode>
+         <ClosedNode>/IOSIM_DATA_P F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|IOSIM_DATA_P.sch/XLXI_4 - Full_Data_Path/XLXI_4 - Full_DLX_GPR</ClosedNode>
+         <ClosedNode>/IOSIM_DATA_P F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|IOSIM_DATA_P.sch/XLXI_4 - Full_Data_Path/XLXI_4 - Full_DLX_GPR/XLXI_87 - RAM32X32S - Behavioral</ClosedNode>
+         <ClosedNode>/IOSIM_DATA_P F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|IOSIM_DATA_P.sch/XLXI_4 - Full_Data_Path/XLXI_4 - Full_DLX_GPR/XLXI_88 - RAM32X32S - Behavioral</ClosedNode>
+         <ClosedNode>/IOSIM_DATA_P F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|IOSIM_DATA_P.sch/XLXI_4 - Full_Data_Path/XLXI_4 - Full_DLX_GPR/XLXI_89 - RAM32X32S - Behavioral</ClosedNode>
+         <ClosedNode>/IOSIM_DATA_P F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|IOSIM_DATA_P.sch/XLXI_4 - Full_Data_Path/XLXI_7 - REG_PC</ClosedNode>
+         <ClosedNode>/IR F:|semesterB2021|computer artitichture Lab|backUp|B6|25042022|B6|25042022|B6|Home_S251|IR.sch</ClosedNode>
+         <ClosedNode>/IR7 F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|IR7.sch</ClosedNode>
+         <ClosedNode>/Monitor E:|adlx|B6|Home_S25|Monitor.sch/XLXI_1 - Slave</ClosedNode>
+         <ClosedNode>/Monitor F:|semesterB2021|computer artitichture Lab|backUp|B6|25042022|B6|25042022|B6|Home_S251|Monitor.sch</ClosedNode>
+         <ClosedNode>/Monitor F:|semesterB2021|computer artitichture Lab|backUp|B6|25042022|B6|25042022|B6|Home_S251|Monitor.sch/XLXI_2 - logical_analyzer</ClosedNode>
+         <ClosedNode>/Monitor F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|Monitor.sch/XLXI_1 - Slave</ClosedNode>
+         <ClosedNode>/Monitor F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|Monitor.sch/XLXI_2 - logical_analyzer</ClosedNode>
+         <ClosedNode>/PC F:|semesterB2021|computer artitichture Lab|backUp|B6|25042022|B6|25042022|B6|Home_S251|PC.sch</ClosedNode>
+         <ClosedNode>/RAM32X32S - Behavioral E:|Home_V14_S25|RAM32X32S.vhd</ClosedNode>
+         <ClosedNode>/RAM32X32S - Behavioral E:|Lab_base|Home_S25|RAM32X32S.vhd</ClosedNode>
+         <ClosedNode>/RAM32X32S - Behavioral E:|Lab_base|Home_V14_S25|RAM32X32S.vhd</ClosedNode>
+         <ClosedNode>/RAM32X32S - Behavioral E:|adlx|B6|Home_S25|RAM32X32S.vhd</ClosedNode>
+         <ClosedNode>/RAM32X32S - Behavioral I:|Lab_base|Home_S25|RAM32X32S.vhd</ClosedNode>
+         <ClosedNode>/READM F:|semesterB2021|computer artitichture Lab|backUp|B6|25042022|B6|25042022|B6|Home_S251|READM.sch</ClosedNode>
+         <ClosedNode>/READM F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|READM.sch</ClosedNode>
+         <ClosedNode>/REG_A_B_C F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|REG_A_B_C.sch</ClosedNode>
+         <ClosedNode>/REG_PC F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|REG_PC.sch</ClosedNode>
+         <ClosedNode>/WRITEM_WRITEM_sch_tb - behavioral F:|semesterB2021|computer artitichture Lab|backUp|B6|25042022|B6|25042022|B6|Home_S251|write_test.vhd</ClosedNode>
+         <ClosedNode>/WRITEM_WRITEM_sch_tb - behavioral F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|write_test.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Home_V14_S25</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000002020000000100000001000000640000018d000000020000000000000000000000000200000064ffffffff0000008100000003000000020000018d0000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>Home_V14_S25</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities/Compile HDL Simulation Libraries</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000016e000000010000000100000000000000000000000064ffffffff0000008100000000000000010000016e0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000000000000000100000000000000000000000000000000000001a7000000040101000100000000000000000000000064ffffffff000000810000000000000004000000420000000100000000000000240000000100000000000000660000000100000000000000db0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>AEQZ.vhd</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>sram_data.vhd</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >13</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000000000000001000000000000000000000000000000000000016e000000010001000100000000000000000000000064ffffffff0000008100000000000000010000016e0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>sram_data.vhd</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Implement Design</ClosedNode>
+         <ClosedNode>Synthesize - XST</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000233000000010000000100000000000000000000000064ffffffff000000810000000000000001000002330000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <SourceProcessView>000000ff00000000000000020000014a0000007501000000050100000002</SourceProcessView>
+   <CurrentView>Implementation</CurrentView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/ALU_ALU_sch_tb - behavioral F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|ALU_tb.vhd/UUT - ALU</ClosedNode>
+         <ClosedNode>/ALU_Compare F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|ALU_Compare.sch</ClosedNode>
+         <ClosedNode>/DLX_Full_Control_DLX_Full_Control_sch_tb - behavioral F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|DLX_Full_Control_tb.vhd</ClosedNode>
+         <ClosedNode>/Data_Path F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|Data_Path.sch</ClosedNode>
+         <ClosedNode>/IOSIM_DATA_P_IOSIM_DATA_P_sch_tb - behavioral F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|IOSIM_DATA_P_tb.vhd/UUT - IOSIM_DATA_P/XLXI_1 - Full_Data_Path</ClosedNode>
+         <ClosedNode>/IOSIM_DATA_P_IOSIM_DATA_P_sch_tb - behavioral F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|IOSIM_DATA_P_tb.vhd/UUT - IOSIM_DATA_P/XLXI_2 - IO_SIMUL - Behavioral</ClosedNode>
+         <ClosedNode>/IOSIM_DATA_P_IOSIM_DATA_P_sch_tb - behavioral F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|IOSIM_DATA_P_tb.vhd/UUT - IOSIM_DATA_P/XLXI_4 - Full_Data_Path/Register_A - REG_A_B_C</ClosedNode>
+         <ClosedNode>/IOSIM_DATA_P_IOSIM_DATA_P_sch_tb - behavioral F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|IOSIM_DATA_P_tb.vhd/UUT - IOSIM_DATA_P/XLXI_4 - Full_Data_Path/Register_B - REG_A_B_C</ClosedNode>
+         <ClosedNode>/IOSIM_DATA_P_IOSIM_DATA_P_sch_tb - behavioral F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|IOSIM_DATA_P_tb.vhd/UUT - IOSIM_DATA_P/XLXI_4 - Full_Data_Path/Register_C - REG_A_B_C</ClosedNode>
+         <ClosedNode>/IOSIM_DATA_P_IOSIM_DATA_P_sch_tb - behavioral F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|IOSIM_DATA_P_tb.vhd/UUT - IOSIM_DATA_P/XLXI_4 - Full_Data_Path/XLXI_118 - Full_IR_Inv</ClosedNode>
+         <ClosedNode>/IOSIM_DATA_P_IOSIM_DATA_P_sch_tb - behavioral F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|IOSIM_DATA_P_tb.vhd/UUT - IOSIM_DATA_P/XLXI_4 - Full_Data_Path/XLXI_15 - ALU</ClosedNode>
+         <ClosedNode>/IOSIM_DATA_P_IOSIM_DATA_P_sch_tb - behavioral F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|IOSIM_DATA_P_tb.vhd/UUT - IOSIM_DATA_P/XLXI_4 - Full_Data_Path/XLXI_162 - DLX_Full_Control</ClosedNode>
+         <ClosedNode>/IOSIM_DATA_P_IOSIM_DATA_P_sch_tb - behavioral F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|IOSIM_DATA_P_tb.vhd/UUT - IOSIM_DATA_P/XLXI_4 - Full_Data_Path/XLXI_4 - Full_DLX_GPR</ClosedNode>
+         <ClosedNode>/IOSIM_DATA_P_IOSIM_DATA_P_sch_tb - behavioral F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|IOSIM_DATA_P_tb.vhd/UUT - IOSIM_DATA_P/XLXI_4 - Full_Data_Path/XLXI_7 - REG_PC</ClosedNode>
+         <ClosedNode>/IR7 F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|IR7.sch</ClosedNode>
+         <ClosedNode>/Monitor_Monitor_sch_tb - behavioral F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|Monitor_t.vhd</ClosedNode>
+         <ClosedNode>/RAM32X32S - Behavioral C:|ComputerLab|Home_S25|RAM32X32S.vhd</ClosedNode>
+         <ClosedNode>/READM_READM_sch_tb - behavioral F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|ReadMachine_Test.vhd</ClosedNode>
+         <ClosedNode>/Slave_Slave_sch_tb - behavioral F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|Slave_t.vhd</ClosedNode>
+         <ClosedNode>/WRITEM_WRITEM_sch_tb - behavioral F:|semesterB2021|computer artitichture Lab|exp7|B6|Home_S251|write_test.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>xc6slx25-2ftg256</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000001f2000000020000000000000000000000000200000064ffffffff000000810000000300000002000001f20000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>xc6slx25-2ftg256</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities/Compile HDL Simulation Libraries</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000017f000000010000000100000000000000000000000064ffffffff0000008100000000000000010000017f0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000017f000000010000000100000000000000000000000064ffffffff0000008100000000000000010000017f0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_SCHEMATIC" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000017f000000010000000100000000000000000000000064ffffffff0000008100000000000000010000017f0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_SCHEMATIC" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities/Compile HDL Simulation Libraries</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000016e000000010000000100000000000000000000000064ffffffff0000008100000000000000010000016e0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+</Project>

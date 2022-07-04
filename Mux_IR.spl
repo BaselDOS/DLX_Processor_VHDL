@@ -1,0 +1,10 @@
+[Inputs]
+C
+J
+I
+=A[4:0]=
+=B[4:0]=
+[Outputs]
+=Mux_Out[4:0]=
+=CO[15:0]=
+[BiDir]

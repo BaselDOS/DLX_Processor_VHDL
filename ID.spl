@@ -1,0 +1,4 @@
+[Inputs]
+[Outputs]
+=IDOUT[7:0]=
+[BiDir]

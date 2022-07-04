@@ -1,0 +1,2 @@
+vhdtdtfi -lib work sram_data.vhd -lib work SRAM.VHD -lib work IO_SIMUL.VHD -prj Home_V14_S25 -o IO_SIMUL.spl -module IO_SIMUL -template F:/ProgramData/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 -w IO_SIMUL.spl {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/IO_SIMUL.sym} 

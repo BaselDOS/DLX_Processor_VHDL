@@ -1,0 +1,10 @@
+sch2sym -intstyle ise -family spartan6 -w -refsym Full_Data_Path {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/Full_Data_Path.sch} {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/Full_Data_Path.sym} 
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl Full_Data_Path_drc.vhf -w {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/Full_Data_Path.sch} 
+sch2sym -intstyle ise -family spartan6 -w -refsym Full_Data_Path {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/Full_Data_Path.sch} {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/Full_Data_Path.sym} 
+sch2sym -intstyle ise -family spartan6 -w -refsym Full_Data_Path {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/Full_Data_Path.sch} {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/Full_Data_Path.sym} 
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl Full_Data_Path_drc.vhf -w {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/Full_Data_Path.sch} 
+sch2sym -intstyle ise -family spartan6 -w -refsym Full_Data_Path {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/Full_Data_Path.sch} {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/Full_Data_Path.sym} 
+sch2hdl -intstyle ise -family spartan6 -flat -suppress -vhdl Full_Data_Path_drc.vhf -w {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/Full_Data_Path.sch} 
+sch2sym -intstyle ise -family spartan6 -w -refsym Full_Data_Path {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/Full_Data_Path.sch} {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/Full_Data_Path.sym} 
+sch2sym -intstyle ise -family spartan6 -w -refsym Full_Data_Path {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/Full_Data_Path.sch} {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/Full_Data_Path.sym} 
+sch2sym -intstyle ise -family spartan6 -w -refsym Full_Data_Path {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/Full_Data_Path.sch} {F:/semesterB2021/computer artitichture Lab/exp7/B6/Home_S251/Full_Data_Path.sym} 
